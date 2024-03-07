@@ -1,0 +1,24 @@
+{
+  "name": "ferde_tea",
+  "version": "1.0.0",
+  "description": "worl tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheebjaba/Ferde_tea.git"
+  },
+  "dependencies": {
+    "blochain_tea_aps": "^1.0.0",
+    "haley_opera---": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wheebjaba/Ferde_tea/issues"
+  },
+  "homepage": "https://github.com/wheebjaba/Ferde_tea#readme"
+}
